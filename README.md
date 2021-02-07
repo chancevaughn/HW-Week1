@@ -7,9 +7,9 @@ The goal of this assignment was to take real-life example code and refactor it. 
 ## What Work Was Completed
 ![alt text](https://github.com/chancevaughn/HW-Week1/blob/main/Assets/Screen%20Shot%202021-02-05%20at%208.49.56%20PM.png)
 
-The beginning text was mainly full of div elements and had no section, header, or clear classes. I also removed some unused id tags, renamed classes, and conjoined classes. In addition, I also fixed the format of the style.css page and even removed some of the css and moved it to a new "reset.css" page.
+![Screenshot](Assets/Screen Shot 2021-02-06 at 9.28.06 PM.png)
 
-One of the things that I changed was that I changed some of the elements to 'article' elements.  It was unclear after I Googled it and talked with the TA's if that was the right decision, if they should have been left as divs, or if I should have changed them to section elements.
+The beginning text was mainly full of div elements and had no section, header, or clear classes. I also removed some unused id tags, renamed classes, added alt tags, and conjoined classes. In addition, I also fixed the format of the style.css page and made it follow the flow of the HTML page.
 
 ## Contributors
 
